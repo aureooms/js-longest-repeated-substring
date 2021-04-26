@@ -20,7 +20,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/aureooms/js-longest-repeated-substring/issues"
+    "url": "https://github.com/make-github-pseudonymous-again/js-longest-repeated-substring/issues"
   },
   "dependencies": {},
   "devDependencies": {
@@ -51,7 +51,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aureooms/js-longest-repeated-substring"
+    "url": "https://github.com/make-github-pseudonymous-again/js-longest-repeated-substring"
   },
   "scripts": {
     "build": "rm -rf lib && babel src -d lib",
