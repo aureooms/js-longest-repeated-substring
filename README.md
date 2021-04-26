@@ -1,8 +1,8 @@
-[@aureooms/js-longest-repeated-substring](https://aureooms.github.io/js-longest-repeated-substring)
+[@aureooms/js-longest-repeated-substring](https://make-github-pseudonymous-again.github.io/js-longest-repeated-substring)
 ==
 
 Longest repeated substring for JavaScript.
-See [docs](https://aureooms.github.io/js-longest-repeated-substring/index.html).
+See [docs](https://make-github-pseudonymous-again.github.io/js-longest-repeated-substring/index.html).
 
 [![License](https://img.shields.io/github/license/aureooms/js-longest-repeated-substring.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-longest-repeated-substring/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-longest-repeated-substring.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-longest-repeated-substring)
@@ -13,4 +13,4 @@ See [docs](https://aureooms.github.io/js-longest-repeated-substring/index.html).
 [![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-longest-repeated-substring.svg?style=flat)](https://codeclimate.com/github/aureooms/js-longest-repeated-substring)
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-longest-repeated-substring.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-longest-repeated-substring)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-longest-repeated-substring.svg?style=flat)](https://github.com/aureooms/js-longest-repeated-substring/issues)
-[![Documentation](https://aureooms.github.io/js-longest-repeated-substring/badge.svg)](https://aureooms.github.io/js-longest-repeated-substring/source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-longest-repeated-substring/badge.svg)](https://make-github-pseudonymous-again.github.io/js-longest-repeated-substring/source.html)
